@@ -12,12 +12,13 @@
 
 /* ── 🔧 CONFIGURACIÓN — EDITA ESTOS VALORES ── */
 const FIREBASE_CONFIG = {
-  apiKey:            "AIzaSyA3Y4vMGWAHbp7nr1Mf8DFveeHKRTrQ7fc",
-  authDomain:        "siscte3.firebaseapp.com",
-  projectId:         "siscte3",
-  storageBucket:     "siscte3.firebasestorage.app",
-  messagingSenderId: "210711406469",
-  appId:             "1:210711406469:web:ac1b0229e3d2db46af86ec"
+  apiKey:            "AIzaSyBF2Ivt-OGqNPpxMEUNt_f4Jd6uBpOhq2Y",
+  authDomain:        "siscte2-e38de.firebaseapp.com",
+  projectId:         "siscte2-e38de",
+  storageBucket:     "siscte2-e38de.firebasestorage.app",
+  messagingSenderId: "234056629895",
+  appId:             "1:234056629895:web:a7f6953ccc7957a7398222",
+  measurementId:     "G-4EBDH1RBGE"
 };
 
 /* ── 👑 ADMINISTRADORES — pon tu correo de Google aquí ── */
