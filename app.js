@@ -12,17 +12,17 @@
 
 /* ── 🔧 CONFIGURACIÓN — EDITA ESTOS VALORES ── */
 const FIREBASE_CONFIG = {
-  apiKey:            "TU_API_KEY",
-  authDomain:        "TU_PROYECTO.firebaseapp.com",
-  projectId:         "TU_PROYECTO",
-  storageBucket:     "TU_PROYECTO.firebasestorage.app",
-  messagingSenderId: "TU_MESSAGING_ID",
-  appId:             "TU_APP_ID"
+  apiKey:            "AIzaSyA3Y4vMGWAHbp7nr1Mf8DFveeHKRTrQ7fc",
+  authDomain:        "siscte3.firebaseapp.com",
+  projectId:         "siscte3",
+  storageBucket:     "siscte3.firebasestorage.app",
+  messagingSenderId: "210711406469",
+  appId:             "1:210711406469:web:ac1b0229e3d2db46af86ec"
 };
 
 /* ── 👑 ADMINISTRADORES — pon tu correo de Google aquí ── */
 const ADMIN_EMAILS = [
-  "tucorreo@gmail.com",
+  "parametrosp.cte@gmail.com",
 ];
 
 /* ── Estado global ── */
